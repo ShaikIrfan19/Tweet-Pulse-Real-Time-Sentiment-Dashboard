@@ -60,3 +60,6 @@ Tweet Pulse is a real-time sentiment monitoring and visualization dashboard desi
 
 ## License
 Academic project – for learning and demonstration purposes
+
+Note: This is an academic capstone project. The repository focuses on system design,
+documentation, and conceptual implementation. Code modules can be extended further.
